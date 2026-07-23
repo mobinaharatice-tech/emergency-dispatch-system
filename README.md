@@ -91,7 +91,6 @@ cmake --build .
 ---
 
 ## 👩‍💻 Author
-
+Mobina Harati
 Computer Engineering Student
 
-Project developed as part of a Data Structures & Algorithms course.
