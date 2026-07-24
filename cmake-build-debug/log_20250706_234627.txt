@@ -1,0 +1,13 @@
+[2025-07-06 23:46:27] SIMULATION STARTED at Sun Jul 06 23:46:27 2025
+[2025-07-06 23:46:27] Event: System initialized
+[2025-07-06 23:46:27] Event: Menu system initialized
+[2025-07-06 23:46:40] Incident Created: Type=MEDICAL, Priority=HIGH, Location=(1,2)
+[2025-07-06 23:46:43] Event: M1-1 STATE CHANGE: WAITING → DISPATCHED
+[2025-07-06 23:46:43] Unit Dispatched: M1-1, Target=(1,2)
+[2025-07-06 23:46:46] Unit Arrived: M1-1 at Incident (1,2)
+[2025-07-06 23:46:46] Event: Incident 1 (!MH!) operation in progress: 5 turns remaining
+[2025-07-06 23:46:46] Event: Incident 1 (!MH!) operation in progress: 4 turns remaining
+[2025-07-06 23:46:47] Event: Incident 1 (!MH!) operation in progress: 3 turns remaining
+[2025-07-06 23:46:47] Event: Incident 1 (!MH!) operation in progress: 2 turns remaining
+[2025-07-06 23:46:50] Event: Simulation ended by user
+[2025-07-06 23:46:50] SIMULATION FINISHED

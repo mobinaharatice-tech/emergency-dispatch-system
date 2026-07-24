@@ -1,0 +1,32 @@
+[2025-07-06 18:50:18] SIMULATION STARTED at Sun Jul 06 18:50:18 2025
+[2025-07-06 18:50:18] Event: System initialized
+[2025-07-06 18:50:18] Event: Menu system initialized
+[2025-07-06 18:50:42] Incident Created: Type=FIRE, Priority=LOW, Location=(2,2)
+[2025-07-06 18:50:50] Incident Created: Type=CRIME, Priority=HIGH, Location=(16,5)
+[2025-07-06 18:50:54] Event: F1-1 STATE CHANGE: WAITING → DISPATCHED
+[2025-07-06 18:50:54] Unit Dispatched: F1-1, Target=(2,2)
+[2025-07-06 18:50:54] Event: M2-1 STATE CHANGE: WAITING → DISPATCHED
+[2025-07-06 18:50:54] Unit Dispatched: M2-1, Target=(16,5)
+[2025-07-06 18:50:54] Event: P1-1 STATE CHANGE: WAITING → DISPATCHED
+[2025-07-06 18:50:54] Unit Dispatched: P1-1, Target=(16,5)
+[2025-07-06 18:50:57] Unit Arrived: M2-1 at Incident (16,5)
+[2025-07-06 18:51:00] Unit Arrived: F1-1 at Incident (2,2)
+[2025-07-06 18:51:00] Event: Incident 1 (!FL!) operation in progress: 3 turns remaining
+[2025-07-06 18:51:00] Event: Incident 1 (!FL!) operation in progress: 2 turns remaining
+[2025-07-06 18:51:01] Event: Incident 1 (!FL!) operation in progress: 1 turns remaining
+[2025-07-06 18:51:02] Event: Incident 1 (!FL!) operation in progress: 0 turns remaining
+[2025-07-06 18:51:02] Unit F1-1 returning to HOME at (2,8)
+[2025-07-06 18:51:02] Event: ========================================
+[2025-07-06 18:51:02] Incident Finished: Type=FIRE, Location=(2,2)
+[2025-07-06 18:51:02] Event: Incident 1 (FIRE) resolved at (2,2) in 3 turns
+[2025-07-06 18:51:02] Event: ========================================
+[2025-07-06 18:51:11] Unit Arrived: P1-1 at Incident (16,5)
+[2025-07-06 18:51:11] Event: Incident 2 (!CH!) operation in progress: 8 turns remaining
+[2025-07-06 18:51:12] Event: Incident 2 (!CH!) operation in progress: 7 turns remaining
+[2025-07-06 18:51:12] Event: Incident 2 (!CH!) operation in progress: 6 turns remaining
+[2025-07-06 18:51:13] Unit F1-1 returning to HOME at (2,8)
+[2025-07-06 18:51:13] Event: Incident 2 (!CH!) operation in progress: 5 turns remaining
+[2025-07-06 18:51:14] Event: Unit F1-1 resting (2 turns left)
+[2025-07-06 18:51:14] Event: Incident 2 (!CH!) operation in progress: 4 turns remaining
+[2025-07-06 18:51:14] Event: Unit F1-1 resting (1 turns left)
+[2025-07-06 18:51:14] Event: Incident 2 (!CH!) operation in progress: 3 turns remaining

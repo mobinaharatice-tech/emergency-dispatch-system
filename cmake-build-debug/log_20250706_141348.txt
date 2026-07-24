@@ -1,0 +1,42 @@
+[2025-07-06 14:13:48] SIMULATION STARTED at Sun Jul 06 14:13:48 2025
+[2025-07-06 14:13:48] Event: System initialized
+[2025-07-06 14:13:48] Event: Menu system initialized
+[2025-07-06 14:14:05] Incident Created: Type=CRIME, Priority=LOW, Location=(0,3)
+[2025-07-06 14:14:12] Incident Created: Type=MEDICAL, Priority=MEDIUM, Location=(14,3)
+[2025-07-06 14:14:18] Event: P2-1 STATE CHANGE: WAITING → DISPATCHED
+[2025-07-06 14:14:18] Unit Dispatched: P2-1, Target=(0,3)
+[2025-07-06 14:14:18] Event: M2-1 STATE CHANGE: WAITING → DISPATCHED
+[2025-07-06 14:14:18] Unit Dispatched: M2-1, Target=(14,3)
+[2025-07-06 14:14:30] Unit Arrived: M2-1 at Incident (14,3)
+[2025-07-06 14:14:30] Event: Incident 2 (!MM!) operation in progress: 3 turns remaining
+[2025-07-06 14:14:33] Unit Arrived: P2-1 at Incident (0,3)
+[2025-07-06 14:14:33] Event: Incident 1 (!CL!) operation in progress: 2 turns remaining
+[2025-07-06 14:14:33] Event: Incident 2 (!MM!) operation in progress: 2 turns remaining
+[2025-07-06 14:14:34] Event: Incident 1 (!CL!) operation in progress: 1 turns remaining
+[2025-07-06 14:14:34] Event: Incident 2 (!MM!) operation in progress: 1 turns remaining
+[2025-07-06 14:14:35] Event: Incident 1 (!CL!) operation in progress: 0 turns remaining
+[2025-07-06 14:14:35] Unit P2-1 returning to HOME at (3,6)
+[2025-07-06 14:14:35] Event: ========================================
+[2025-07-06 14:14:35] Incident Finished: Type=CRIME, Location=(0,3)
+[2025-07-06 14:14:35] Event: Incident 1 (CRIME) resolved at (0,3) in 2 turns
+[2025-07-06 14:14:35] Event: ========================================
+[2025-07-06 14:14:35] Event: Incident 2 (!MM!) operation in progress: 0 turns remaining
+[2025-07-06 14:14:35] Unit M2-1 returning to HOME at (15,7)
+[2025-07-06 14:14:35] Event: ========================================
+[2025-07-06 14:14:35] Incident Finished: Type=MEDICAL, Location=(14,3)
+[2025-07-06 14:14:35] Event: Incident 2 (MEDICAL) resolved at (14,3) in 3 turns
+[2025-07-06 14:14:35] Event: ========================================
+[2025-07-06 14:14:48] Unit M2-1 returning to HOME at (15,7)
+[2025-07-06 14:14:48] Event: Unit M2-1 resting (2 turns left)
+[2025-07-06 14:14:48] Unit P2-1 returning to HOME at (3,6)
+[2025-07-06 14:14:49] Event: Unit M2-1 resting (1 turns left)
+[2025-07-06 14:14:49] Event: Unit P2-1 resting (2 turns left)
+[2025-07-06 14:14:50] Event: Unit M2-1 resting (0 turns left)
+[2025-07-06 14:14:50] Event: M2-1 STATE CHANGE: RESTING → WAITING
+[2025-07-06 14:14:50] Event: Unit M2-1 is now WAITING (finished resting)
+[2025-07-06 14:14:50] Event: Unit P2-1 resting (1 turns left)
+[2025-07-06 14:14:50] Event: Unit P2-1 resting (0 turns left)
+[2025-07-06 14:14:50] Event: P2-1 STATE CHANGE: RESTING → WAITING
+[2025-07-06 14:14:50] Event: Unit P2-1 is now WAITING (finished resting)
+[2025-07-06 14:17:51] Event: Simulation ended by user
+[2025-07-06 14:17:51] SIMULATION FINISHED

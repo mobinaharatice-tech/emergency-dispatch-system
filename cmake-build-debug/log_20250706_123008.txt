@@ -1,0 +1,50 @@
+[2025-07-06 12:30:08] SIMULATION STARTED at Sun Jul 06 12:30:08 2025
+[2025-07-06 12:30:08] Event: System initialized
+[2025-07-06 12:30:08] Event: Menu system initialized
+[2025-07-06 12:30:28] Incident Created: Type=MEDICAL, Priority=HIGH, Location=(12,5)
+[2025-07-06 12:30:36] Incident Created: Type=MEDICAL, Priority=MEDIUM, Location=(2,1)
+[2025-07-06 12:30:57] Unit Dispatched: M2-1, Target=(12,5)
+[2025-07-06 12:30:57] Unit Dispatched: M1-1, Target=(2,1)
+[2025-07-06 12:31:12] Unit Arrived: M2-1 at Incident (12,5)
+[2025-07-06 12:31:12] Event: Incident 1 (!MH!) operation in progress: 5 turns remaining
+[2025-07-06 12:31:13] Event: Incident 1 (!MH!) operation in progress: 4 turns remaining
+[2025-07-06 12:31:14] Unit Arrived: M1-1 at Incident (2,1)
+[2025-07-06 12:31:14] Event: Incident 1 (!MH!) operation in progress: 3 turns remaining
+[2025-07-06 12:31:14] Event: Incident 2 (!MM!) operation in progress: 3 turns remaining
+[2025-07-06 12:31:15] Event: Incident 1 (!MH!) operation in progress: 2 turns remaining
+[2025-07-06 12:31:15] Event: Incident 2 (!MM!) operation in progress: 2 turns remaining
+[2025-07-06 12:31:16] Event: Incident 1 (!MH!) operation in progress: 1 turns remaining
+[2025-07-06 12:31:16] Event: Incident 2 (!MM!) operation in progress: 1 turns remaining
+[2025-07-06 12:31:17] Event: Incident 1 (!MH!) operation in progress: 0 turns remaining
+[2025-07-06 12:31:17] Unit M2-1 returning to base at (15,7)
+[2025-07-06 12:31:17] Incident Finished: Type=MEDICAL, Location=(12,5)
+[2025-07-06 12:31:17] Event: Incident 1 (MEDICAL) resolved at (12,5) in 5 turns
+[2025-07-06 12:31:17] Event: Incident 2 (!MM!) operation in progress: 0 turns remaining
+[2025-07-06 12:31:17] Unit M1-1 returning to base at (5,5)
+[2025-07-06 12:31:17] Incident Finished: Type=MEDICAL, Location=(2,1)
+[2025-07-06 12:31:17] Event: Incident 2 (MEDICAL) resolved at (2,1) in 3 turns
+[2025-07-06 12:31:23] Unit M2-1 returning to base at (15,7)
+[2025-07-06 12:31:25] Unit M1-1 returning to base at (5,5)
+[2025-07-06 12:31:42] Incident Created: Type=CRIME, Priority=LOW, Location=(16,8)
+[2025-07-06 12:31:48] Incident Created: Type=FIRE, Priority=LOW, Location=(0,1)
+[2025-07-06 12:31:54] Unit Dispatched: P1-1, Target=(16,8)
+[2025-07-06 12:31:54] Unit Dispatched: F1-1, Target=(0,1)
+[2025-07-06 12:32:14] Unit Arrived: F1-1 at Incident (0,1)
+[2025-07-06 12:32:14] Event: Incident 4 (!FL!) operation in progress: 3 turns remaining
+[2025-07-06 12:32:15] Event: Incident 4 (!FL!) operation in progress: 2 turns remaining
+[2025-07-06 12:32:20] Event: Incident 4 (!FL!) operation in progress: 1 turns remaining
+[2025-07-06 12:32:21] Event: Incident 4 (!FL!) operation in progress: 0 turns remaining
+[2025-07-06 12:32:21] Unit F1-1 returning to base at (2,8)
+[2025-07-06 12:32:21] Incident Finished: Type=FIRE, Location=(0,1)
+[2025-07-06 12:32:21] Event: Incident 4 (FIRE) resolved at (0,1) in 3 turns
+[2025-07-06 12:32:23] Unit Arrived: P1-1 at Incident (16,8)
+[2025-07-06 12:32:23] Event: Incident 3 (!CL!) operation in progress: 2 turns remaining
+[2025-07-06 12:32:23] Event: Incident 3 (!CL!) operation in progress: 1 turns remaining
+[2025-07-06 12:32:24] Event: Incident 3 (!CL!) operation in progress: 0 turns remaining
+[2025-07-06 12:32:24] Unit P1-1 returning to base at (8,1)
+[2025-07-06 12:32:24] Incident Finished: Type=CRIME, Location=(16,8)
+[2025-07-06 12:32:24] Event: Incident 3 (CRIME) resolved at (16,8) in 2 turns
+[2025-07-06 12:32:31] Unit F1-1 returning to base at (2,8)
+[2025-07-06 12:32:44] Unit P1-1 returning to base at (8,1)
+[2025-07-06 12:32:50] Event: Simulation ended by user
+[2025-07-06 12:32:50] SIMULATION FINISHED

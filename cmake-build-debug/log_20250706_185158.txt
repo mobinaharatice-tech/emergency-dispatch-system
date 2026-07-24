@@ -1,0 +1,12 @@
+[2025-07-06 18:51:58] SIMULATION STARTED at Sun Jul 06 18:51:58 2025
+[2025-07-06 18:51:58] Event: System initialized
+[2025-07-06 18:51:58] Event: Menu system initialized
+[2025-07-06 18:52:07] Incident Created: Type=FIRE, Priority=LOW, Location=(1,1)
+[2025-07-06 18:52:11] Event: F1-1 STATE CHANGE: WAITING → DISPATCHED
+[2025-07-06 18:52:11] Unit Dispatched: F1-1, Target=(1,1)
+[2025-07-06 18:52:14] Unit Arrived: F1-1 at Incident (1,1)
+[2025-07-06 18:52:14] Event: Incident 1 (!FL!) operation in progress: 3 turns remaining
+[2025-07-06 18:52:14] Event: Incident 1 (!FL!) operation in progress: 2 turns remaining
+[2025-07-06 18:52:15] Event: Incident 1 (!FL!) operation in progress: 1 turns remaining
+[2025-07-06 18:52:17] Event: Simulation ended by user
+[2025-07-06 18:52:18] SIMULATION FINISHED

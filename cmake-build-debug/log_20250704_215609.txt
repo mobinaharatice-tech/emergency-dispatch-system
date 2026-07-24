@@ -1,0 +1,26 @@
+[2025-07-04 21:56:09] SIMULATION STARTED at Fri Jul 04 21:56:09 2025
+[2025-07-04 21:56:09] Event: System initialized
+[2025-07-04 21:56:09] Event: Menu system initialized
+[2025-07-04 21:56:23] Incident Created: Type=FIRE, Priority=LOW, Location=(11,1)
+[2025-07-04 21:56:29] Unit Dispatched: F2-1, Target=(11,1)
+[2025-07-04 21:56:29] Event: Incident 1 (!FL!) operation in progress: 3 turns remaining
+[2025-07-04 21:56:29] Unit Arrived: F2-1 at Incident (11,1)
+[2025-07-04 21:56:29] Event: Incident 1 (!FL!) operation in progress: 2 turns remaining
+[2025-07-04 21:56:30] Event: Incident 1 (!FL!) operation in progress: 1 turns remaining
+[2025-07-04 21:56:31] Event: Incident 1 (!FL!) operation in progress: 0 turns remaining
+[2025-07-04 21:56:31] Event: ========================================
+[2025-07-04 21:56:31] Event: F2-1 RETURNING to F2 at (12,1)
+[2025-07-04 21:56:31] Event: F2-1 STATE CHANGE: OPERATING → RETURNING
+[2025-07-04 21:56:31] Event: ========================================
+[2025-07-04 21:56:31] Incident Finished: Type=FIRE, Location=(11,1)
+[2025-07-04 21:56:31] Event: Incident 1 (FIRE) resolved at (11,1) in 3 turns
+[2025-07-04 21:56:33] Event: ========================================
+[2025-07-04 21:56:33] Event: F2-1 ARRIVED at F2 (RESTING for 3 turns)
+[2025-07-04 21:56:33] Event: F2-1 STATE CHANGE: RETURNING → RESTING
+[2025-07-04 21:56:33] Event: ========================================
+[2025-07-04 21:56:33] Event: Unit F2-1 resting (2 turns left)
+[2025-07-04 21:56:33] Event: Unit F2-1 resting (1 turns left)
+[2025-07-04 21:56:34] Event: Unit F2-1 resting (0 turns left)
+[2025-07-04 21:56:34] Event: Unit F2-1 is now WAITING (finished resting)
+[2025-07-04 21:56:37] Event: Simulation ended by user
+[2025-07-04 21:56:37] SIMULATION FINISHED

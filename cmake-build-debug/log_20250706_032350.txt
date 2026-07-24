@@ -1,0 +1,42 @@
+[2025-07-06 03:23:50] SIMULATION STARTED at Sun Jul 06 03:23:50 2025
+[2025-07-06 03:23:50] Event: System initialized
+[2025-07-06 03:23:50] Event: Menu system initialized
+[2025-07-06 03:24:06] Incident Created: Type=MEDICAL, Priority=HIGH, Location=(12,2)
+[2025-07-06 03:24:11] Unit Dispatched: M2-1, Target=(12,2)
+[2025-07-06 03:24:19] Unit Arrived: M2-1 at Incident (12,2)
+[2025-07-06 03:24:19] Event: Incident 1 (!MH!) operation in progress: 5 turns remaining
+[2025-07-06 03:24:20] Event: Incident 1 (!MH!) operation in progress: 4 turns remaining
+[2025-07-06 03:24:21] Event: Incident 1 (!MH!) operation in progress: 3 turns remaining
+[2025-07-06 03:24:24] Event: Incident 1 (!MH!) operation in progress: 2 turns remaining
+[2025-07-06 03:24:25] Event: Incident 1 (!MH!) operation in progress: 1 turns remaining
+[2025-07-06 03:24:26] Event: Incident 1 (!MH!) operation in progress: 0 turns remaining
+[2025-07-06 03:24:26] Unit M2-1 returning to base at (15,7)
+[2025-07-06 03:24:26] Incident Finished: Type=MEDICAL, Location=(12,2)
+[2025-07-06 03:24:26] Event: Incident 1 (MEDICAL) resolved at (12,2) in 5 turns
+[2025-07-06 03:25:12] Unit M2-1 returning to base at (15,7)
+[2025-07-06 03:26:10] Incident Created: Type=FIRE, Priority=HIGH, Location=(0,0)
+[2025-07-06 03:26:13] Unit Dispatched: F1-1, Target=(0,0)
+[2025-07-06 03:26:13] Unit Dispatched: M1-1, Target=(0,0)
+[2025-07-06 03:26:13] Unit Dispatched: P1-1, Target=(0,0)
+[2025-07-06 03:26:20] Unit Arrived: P1-1 at Incident (0,0)
+[2025-07-06 03:26:24] Unit Arrived: F1-1 at Incident (0,0)
+[2025-07-06 03:26:25] Unit Arrived: M1-1 at Incident (0,0)
+[2025-07-06 03:26:25] Event: Incident 2 (!FH!) operation in progress: 8 turns remaining
+[2025-07-06 03:26:25] Event: Incident 2 (!FH!) operation in progress: 7 turns remaining
+[2025-07-06 03:26:26] Event: Incident 2 (!FH!) operation in progress: 6 turns remaining
+[2025-07-06 03:26:26] Event: Incident 2 (!FH!) operation in progress: 5 turns remaining
+[2025-07-06 03:26:28] Event: Incident 2 (!FH!) operation in progress: 4 turns remaining
+[2025-07-06 03:26:29] Event: Incident 2 (!FH!) operation in progress: 3 turns remaining
+[2025-07-06 03:26:36] Event: Incident 2 (!FH!) operation in progress: 2 turns remaining
+[2025-07-06 03:26:36] Event: Incident 2 (!FH!) operation in progress: 1 turns remaining
+[2025-07-06 03:26:37] Event: Incident 2 (!FH!) operation in progress: 0 turns remaining
+[2025-07-06 03:26:37] Unit F1-1 returning to base at (2,8)
+[2025-07-06 03:26:37] Unit M1-1 returning to base at (5,5)
+[2025-07-06 03:26:37] Unit P1-1 returning to base at (8,1)
+[2025-07-06 03:26:37] Incident Finished: Type=FIRE, Location=(0,0)
+[2025-07-06 03:26:37] Event: Incident 2 (FIRE) resolved at (0,0) in 8 turns
+[2025-07-06 03:27:09] Unit F1-1 returning to base at (2,8)
+[2025-07-06 03:27:13] Unit M1-1 returning to base at (5,5)
+[2025-07-06 03:27:13] Unit P1-1 returning to base at (8,1)
+[2025-07-06 03:28:11] Event: Simulation ended by user
+[2025-07-06 03:28:11] SIMULATION FINISHED

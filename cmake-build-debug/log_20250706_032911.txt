@@ -1,0 +1,3 @@
+[2025-07-06 03:29:11] SIMULATION STARTED at Sun Jul 06 03:29:11 2025
+[2025-07-06 03:29:11] Event: System initialized
+[2025-07-06 03:29:11] Event: Menu system initialized
